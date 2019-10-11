@@ -4,5 +4,5 @@
 
 # Proyecto de Machine Learning en mantenimiento: cómo enfocarlo para el éxito
 ![Presentación](/images/presentacion.png)
-![Presentación Proyecto de ML en mantenimiento](Proyectos_ML_en_Mantenimiento_Predictivo.pdf)
+![Link a la Presentación](Proyectos_ML_en_Mantenimiento_Predictivo.pdf)
 
